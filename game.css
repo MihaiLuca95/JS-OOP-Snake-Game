@@ -1,0 +1,12 @@
+body {
+    background-color: darkslategray;
+    margin: 0;
+}
+
+.component {
+    width: 64px;
+    height: 64px;
+    /* border: 1px solid #000; */
+    background-image: url(./images/snake-graphics.png);
+    position: absolute;
+}
